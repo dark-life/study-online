@@ -4,6 +4,12 @@
 	width: 1200px;
 }
 
+html,
+body {
+	/* width: 963.2px; */
+	width: 1518.8px;
+}
+
 body {
 	background-color: #f3f5f7;
 }
@@ -18,7 +24,6 @@ header {
 header .wrapper {
 	display: flex;
 	padding-top: 29px;
-	
 }
 
 /* logo */
@@ -77,6 +82,10 @@ header .search {
 .search input::placeholder {
 	font-size: 14px;
 	color: #999;
+}
+
+.icon-search {
+	line-height: 40px;
 }
 
 /* user */
