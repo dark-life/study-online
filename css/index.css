@@ -4,11 +4,11 @@
 	width: 1200px;
 }
 
-html,
+/* html,
 body {
-	/* width: 963.2px; */
+	width: 963.2px;
 	width: 1518.8px;
-}
+} */
 
 body {
 	background-color: #f3f5f7;
